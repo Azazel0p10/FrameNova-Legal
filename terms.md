@@ -66,5 +66,5 @@ Está prohibido:
 
 ## 8. Contacto
 
-Para preguntas, quejas o solicitud de eliminación de datos, puedes contactar al desarrollador mediante el [servidor de soporte](https://discord.gg/tu-servidor).
+Para preguntas, quejas o solicitud de eliminación de datos, puedes contactar al desarrollador mediante el [servidor de soporte](https://discord.gg/kJnctCREgN).
 
