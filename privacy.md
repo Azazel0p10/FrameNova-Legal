@@ -81,5 +81,5 @@ Nos reservamos el derecho de modificar esta política en cualquier momento. Se n
 
 ## 9. Contacto
 
-Si tienes preguntas sobre esta política o deseas ejercer alguno de tus derechos, contáctanos a través del [servidor de soporte](https://discord.gg/tu-servidor).
+Si tienes preguntas sobre esta política o deseas ejercer alguno de tus derechos, contáctanos a través del [servidor de soporte](https://discord.gg/kJnctCREgN).
 
